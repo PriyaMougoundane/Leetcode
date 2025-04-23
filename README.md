@@ -11,6 +11,7 @@ Leetcode problem
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyaMougoundane/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1603-running-sum-of-1d-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/PriyaMougoundane/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/PriyaMougoundane/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -44,4 +45,8 @@ Leetcode problem
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/PriyaMougoundane/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
