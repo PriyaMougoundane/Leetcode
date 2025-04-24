@@ -10,6 +10,7 @@ Leetcode problem
 | [0027-remove-element](https://github.com/PriyaMougoundane/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyaMougoundane/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PriyaMougoundane/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -35,6 +36,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyaMougoundane/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -61,4 +63,12 @@ Leetcode problem
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
