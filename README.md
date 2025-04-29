@@ -41,10 +41,12 @@ Leetcode problem
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyaMougoundane/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/PriyaMougoundane/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyaMougoundane/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/PriyaMougoundane/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
