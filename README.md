@@ -30,6 +30,7 @@ Leetcode problem
 | ------- |
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PriyaMougoundane/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/PriyaMougoundane/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PriyaMougoundane/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyaMougoundane/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sliding Window
@@ -83,5 +84,6 @@ Leetcode problem
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/PriyaMougoundane/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PriyaMougoundane/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
