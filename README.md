@@ -29,6 +29,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/PriyaMougoundane/Leetcode/tree/master/0069-sqrtx) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyaMougoundane/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ Leetcode problem
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/PriyaMougoundane/Leetcode/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
