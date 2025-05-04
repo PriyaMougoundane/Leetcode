@@ -18,6 +18,7 @@ Leetcode problem
 | [1603-running-sum-of-1d-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/PriyaMougoundane/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/PriyaMougoundane/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/PriyaMougoundane/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -49,6 +50,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PriyaMougoundane/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1899-count-items-matching-a-rule](https://github.com/PriyaMougoundane/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PriyaMougoundane/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
