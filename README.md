@@ -12,6 +12,7 @@ Leetcode problem
 | [0643-maximum-average-subarray-i](https://github.com/PriyaMougoundane/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyaMougoundane/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyaMougoundane/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/PriyaMougoundane/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PriyaMougoundane/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -59,6 +60,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyaMougoundane/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/PriyaMougoundane/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/PriyaMougoundane/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -76,6 +78,7 @@ Leetcode problem
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PriyaMougoundane/Leetcode/tree/master/0069-sqrtx) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyaMougoundane/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
