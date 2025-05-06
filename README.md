@@ -11,6 +11,7 @@ Leetcode problem
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyaMougoundane/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyaMougoundane/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PriyaMougoundane/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/PriyaMougoundane/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/PriyaMougoundane/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -27,6 +28,7 @@ Leetcode problem
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaMougoundane/Leetcode/tree/master/0027-remove-element) |
+| [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@ Leetcode problem
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/PriyaMougoundane/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/PriyaMougoundane/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -67,6 +70,7 @@ Leetcode problem
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/PriyaMougoundane/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
@@ -90,4 +94,8 @@ Leetcode problem
 | ------- |
 | [0278-first-bad-version](https://github.com/PriyaMougoundane/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PriyaMougoundane/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/PriyaMougoundane/Leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
