@@ -24,6 +24,7 @@ Leetcode problem
 | [1791-richest-customer-wealth](https://github.com/PriyaMougoundane/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/PriyaMougoundane/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/PriyaMougoundane/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1983-maximum-population-year](https://github.com/PriyaMougoundane/Leetcode/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/PriyaMougoundane/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
@@ -72,6 +73,7 @@ Leetcode problem
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/PriyaMougoundane/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/PriyaMougoundane/Leetcode/tree/master/1983-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Leetcode problem
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/PriyaMougoundane/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1983-maximum-population-year](https://github.com/PriyaMougoundane/Leetcode/tree/master/1983-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
