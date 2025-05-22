@@ -8,6 +8,7 @@ Leetcode problem
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyaMougoundane/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyaMougoundane/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyaMougoundane/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -37,6 +38,7 @@ Leetcode problem
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyaMougoundane/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyaMougoundane/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PriyaMougoundane/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/PriyaMougoundane/Leetcode/tree/master/0278-first-bad-version) |
